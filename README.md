@@ -28,7 +28,7 @@ Catology is an AI-powered system designed to identify a cat's breed based on its
 ### Libraries used:
 - Data Processing: `pandas`, `numpy`;
 - NLP: `NLTK`, `spaCy`;
-- Machine Learning: `scikit-learn`, `tensorflow`;
+- Machine Learning: `scikit-learn`;
 - Data Visualization: `matplotlib`, `seaborn`;
 
 ## Results & Interpretation:
